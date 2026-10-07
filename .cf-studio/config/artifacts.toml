@@ -1,0 +1,9 @@
+# Constructor Studio artifacts registry
+
+[[systems]]
+name = "ConstructorFabricLab"
+slug = "constructorfabriclab"
+kit = "sdlc"
+artifacts = []
+codebase = []
+children = []
